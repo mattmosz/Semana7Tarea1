@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@angular/common": "^18.2.4",
+    "@angular/forms": "^18.2.4",
+    "@angular/router": "^18.2.4",
+    "@ng-bootstrap/ng-bootstrap": "^17.0.1",
+    "@types/jspdf": "^2.0.0",
+    "jspdf": "^2.5.1"
+  }
+}
